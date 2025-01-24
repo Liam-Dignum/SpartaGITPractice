@@ -7,5 +7,6 @@ Works locally or can push to a setup server or cloud service such as GitHub.
 ![](Images/GitCheatsheetPage1.png)
 ![](Images/GitCheatsheetPage2.png)
 ### Branches
-
+Git branches facilitate separate lines of development within a repository,the initial branch(usually called main or master) and then any spun off branches can be pushed to and retain their own version history.
+separate branches can then be merged and any conflicts or issues from combining files can be delt with then, reducing time lost developing due to conflicts.
 
