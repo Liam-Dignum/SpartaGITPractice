@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d11b57d-a368-4ec8-928a-7ea15d4a0932" name="Changes" comment="images added">
-      <change afterPath="$PROJECT_DIR$/.idea/SpartaGITPractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="8d11b57d-a368-4ec8-928a-7ea15d4a0932" name="Changes" comment="images added to markdownfile">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GitMarkdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/GitMarkdown.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,11 +77,36 @@
       <option name="project" value="LOCAL" />
       <updated>1737723178313</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="images added to markdownfile">
+      <option name="closed" value="true" />
+      <created>1737727768880</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737727768880</updated>
+    </task>
+    <task id="LOCAL-00004" summary="images added to markdownfile">
+      <option name="closed" value="true" />
+      <created>1737727782567</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737727782567</updated>
+    </task>
+    <task id="LOCAL-00005" summary="images added to markdownfile">
+      <option name="closed" value="true" />
+      <created>1737727830387</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737727830387</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="images added" />
-    <option name="LAST_COMMIT_MESSAGE" value="images added" />
+    <MESSAGE value="images added to markdownfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="images added to markdownfile" />
   </component>
 </project>
