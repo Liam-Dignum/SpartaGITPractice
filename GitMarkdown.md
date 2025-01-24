@@ -15,3 +15,4 @@ Git functions by storing snapshots of files and their data when prompted by the 
 2. Modified: Files who's data has changed from the last commit but the changes are not yet tracked for the next commit, if left in this state the file will remain outside of Gits record.
 3. Staged: Files that have been included into the next commit.
 4. Committed: Here files have been saved into a Git repository permanently storing their state along with a commit message used to describe changes.
+![](Images/States.jpg)
