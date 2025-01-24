@@ -4,8 +4,8 @@ Version control is useful for anyone that creates content, Keeps track of any ch
 Allows easier collaboration between users and teams as well as working on multiple branches of a project without causing conflicts.
 Works locally or can push to a setup server or cloud service such as GitHub.
 ### Cheatsheets
-![](images/GitCheatsheetPage1.png)
-![](images/GitCheatsheetPage2.png)
+![](Images/GitCheatsheetPage1.png)
+![](Images/GitCheatsheetPage2.png)
 ### Branches
 
 
